@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+ }
+ body{
+  background-image: url("https://e0.pxfuel.com/wallpapers/302/892/desktop-wallpaper-blue-sky-blue-flower-for-background-sky-blue-colour.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+ }
+h1{
+background-color: gold;
+color: white;
+font-size: 3rem;
+
+}
+button{
+  background-color: orange;
+  font-size: 2rem;
+}
+label{
+  background-color:green;
+  font-size: 2rem;
+}
+input{
+  background-color: deeppink;
+  font-size: 2rem;
+}
